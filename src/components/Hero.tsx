@@ -69,7 +69,7 @@ link.download = 'muhammad-yusuf-cv.pdf';
               lineHeight: '1.1',
             }}
           >
-            Muhammad Yusuf Aditiya
+            Legacy 2024 Portofolio Muhammad Yusuf Aditiya
           </motion.h1>
 
           {/* Subtitle */}
@@ -88,7 +88,7 @@ link.download = 'muhammad-yusuf-cv.pdf';
                 margin: '0 auto',
               }}
             >
-              Design the Future. Code the System. Connect the World.{' '}
+              (My 2026 portfolio is under development; please visit my LinkedIn and GitHub for details and my newest projects.){' '}
             </p>
           </motion.div>
 
